@@ -6,7 +6,7 @@
 1. Install Spark 1.4.x
 2. Make sure you have a working Python setup. anaconda distribution is recommended
 3. Make sure iPython is running fine (on it's own)
-4. Download this repository to ../global-bd-conf
+4. Download this repository to ../global-bd-conf (I will keep this updated as more materials are developed. Will be definitely current by cob 15th ;o)
 5. cd ../global-bd-conf
 6. Run iPython and pyspark IPYTHON=1 IPYTHON_OPTS="notebook" ~/Downloads/spark-1.4.0/bin/pyspark --packages com.databricks:spark-csv_2.11:1.0.3
 7. Use the spark path. I have spark installed in ~/Downloads/spark-1.4.0/
@@ -14,3 +14,24 @@
 9. Now you are ready for the workshop !
 
 It could take sometime to get there - don't worry. That is part of the learning.
+
+## Workshop Outline
+* The workshop will start with some Spark basics, move into DataFrames and then to wrangling with datasets
+* The focus is on Data Science and data wrangling using Python
+* To prepare for the workshop, it would be good to go through the Spark Summit 2015 West Training materials [spark-summit-W2015-1] and [spark-summit-W2015-2]
+** Brian and Sameer have done an excellent job
+* the reference below has more materials - Lots of good material from Paco Nathan
+
+## Reference
+### Intro
+* [spark-summit-W2015-1] http://www.slideshare.net/SparkSummit/intro-to-spark-development
+* [spark-summit-E2015-1] http://training.databricks.com/workshop/intro_spark.pdf
+* [spark-intro] http://training.databricks.com/workshop/itas_workshop.pdf
+### Intro++ (or Intro#)
+* [spark-camp-01] http://training.databricks.com/workshop/sparkcamp.pdf
+* [spark-summit-W2015-2] http://www.slideshare.net/SparkSummit/dev-ops-training
+* [spark-visual-api] http://training.databricks.com/visualapi.pdf
+* [spark-summit-E2015-2] http://training.databricks.com/workshop/datasci.pdf
+
+
+

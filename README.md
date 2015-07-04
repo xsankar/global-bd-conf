@@ -1,7 +1,7 @@
-# global-bd-conf
-### Code and datasets for the Spark workshop http://globalbigdataconference.com/52/santa-clara/big-data-developer-conference/schedule.html
-### Big Data Track II, July 16 8AM-5:00PM
-# Setup
+## global-bd-conf
+* Code and datasets for the Spark workshop http://globalbigdataconference.com/52/santa-clara/big-data-developer-conference/schedule.html
+* Big Data Track II, July 16 8AM-5:00PM
+## Setup
 1. Install Spark 1.4.x
 2. Make sure you have a working Python setup. anaconda distribution is recommended
 3. Make sure iPython is running fine (on it's own)

@@ -25,7 +25,16 @@
 * Will try to have more discussions.
 * If you have completed the edX/Berkeley CS100.1x and/or CS190.1x and have questions, come on over. But then some of the materials would be basic for you.
 * A rough agenda
-*# x
+  1. Intro To Spark
+    * Spark Yesterday-Today-Tomorrow
+    * Spark Architecture
+  2. Setup and PreFlight Check notebooks
+  3. Spark DataFrames - An in-depth look
+    * APIs, hands-on code
+  4. Data Wrangling with DataFrames & MLlib
+    * SQL Data
+    * Titanic Kaggle competition
+    * ...
 
 ### Preparation
 * To prepare for the workshop, it would be good to go through the Spark Summit 2015 West Training materials [spark-summit-W2015-1] and [spark-summit-W2015-2]

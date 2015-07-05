@@ -31,7 +31,8 @@
   2. Setup and PreFlight Check notebooks
   3. Spark DataFrames - An in-depth look
     * APIs, hands-on code
-  4. Data Wrangling with DataFrames & MLlib
+  4. Data Science Folk Knowledge - http://www.slideshare.net/ksankar/data-science-folk-knowledge
+  5. Data Wrangling with DataFrames & MLlib
     * SQL Data
     * Titanic Kaggle competition
     * ...

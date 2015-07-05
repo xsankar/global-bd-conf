@@ -54,5 +54,8 @@
 * [spark-visual-api] http://training.databricks.com/visualapi.pdf
 * [spark-summit-E2015-2] http://training.databricks.com/workshop/datasci.pdf
 
+### General
+* [Databricks-developer] https://databricks.com/spark/developer-resources
+
 
 

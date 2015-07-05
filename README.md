@@ -17,13 +17,15 @@
 8. Run the two initial notebooks 000-PreFlightCheck and the 001-TestSparkCSV
 9. Now you are ready for the workshop !
 
-It could take sometime to get there - don't worry. That is part of the learning.
+>It could take sometime to get there - don't worry. _That is part of the learning._
 
 ## Workshop Outline
 * The workshop will start with some Spark basics, move into DataFrames and then to wrangling with datasets
 * The focus is on Data Science and data wrangling using Python
 * Will try to have more discussions.
 * If you have completed the edX/Berkeley CS100.1x and/or CS190.1x and have questions, come on over. But then some of the materials would be basic for you.
+* A rough agenda
+*# x
 
 ### Preparation
 * To prepare for the workshop, it would be good to go through the Spark Summit 2015 West Training materials [spark-summit-W2015-1] and [spark-summit-W2015-2]

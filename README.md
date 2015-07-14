@@ -28,6 +28,7 @@
 * The focus is on Data Science and data wrangling using Python
 * Will try to have more discussions.
 * If you have completed the edX/Berkeley CS100.1x and/or CS190.1x and have questions, come on over. But then some of the materials would be basic for you.
+* Slides at [Slideshare](http://www.slideshare.net/ksankar/data-science-with-spark-50527018)
 * A rough agenda
   1. Intro To Spark
     * Spark Yesterday-Today-Tomorrow

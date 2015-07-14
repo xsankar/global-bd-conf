@@ -5,6 +5,8 @@
 ## Setup
 1. Install Spark 1.4.x
    * https://spark.apache.org/downloads.html
+   * Pre-built is fine. It is a good exercise to compile and run Spark.
+   * We will be running pyspark via iPython. So, for this orkshop, don't worry about standalone deployment et al
 2. Make sure you have a working Python and iPython setup. Anaconda distribution is recommended
    * http://ipython.org/install.html
 3. Make sure iPython is running fine (on it's own)
@@ -14,8 +16,8 @@
 5. cd ../global-bd-conf
 6. Run iPython and pyspark
 
-    >IPYTHON=1 IPYTHON_OPTS="notebook" ~/Downloads/spark-1.4.0/bin/pyspark --packages com.databricks:spark-csv_2.11:1.0.3
-7. Use the right spark path. I have spark installed in ~/Downloads/spark-1.4.0/
+    >IPYTHON=1 IPYTHON_OPTS="notebook" ~/Downloads/spark-1.4.1/bin/pyspark --packages com.databricks:spark-csv_2.11:1.0.3
+7. Use the right spark path. I have spark installed in ~/Downloads/spark-1.4.1/
 8. Run the two initial notebooks 000-PreFlightCheck and the 001-TestSparkCSV
 9. Now you are ready for the workshop !
 

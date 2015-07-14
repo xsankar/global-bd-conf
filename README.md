@@ -4,7 +4,9 @@
 
 ## Setup
 1. Install Spark 1.4.x
-2. Make sure you have a working Python setup. anaconda distribution is recommended
+   * https://spark.apache.org/downloads.html
+2. Make sure you have a working Python and iPython setup. Anaconda distribution is recommended
+   * http://ipython.org/install.html
 3. Make sure iPython is running fine (on it's own)
 4. Download this repository to ../global-bd-conf.
 

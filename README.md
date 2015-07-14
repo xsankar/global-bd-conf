@@ -5,8 +5,8 @@
 ## Setup
 1. Install Spark 1.4.x
    * https://spark.apache.org/downloads.html
-   * Pre-built is fine. It is a good exercise to compile and run Spark.
-   * We will be running pyspark via iPython. So, for this orkshop, don't worry about standalone deployment et al
+   * Pre-built is fine. It is a good exercise to compile and run Spark, but that can be done later.
+   * We will be running pyspark via iPython. So, for this workshop, don't worry about standalone deployment et al
 2. Make sure you have a working Python and iPython setup. Anaconda distribution is recommended
    * http://ipython.org/install.html
 3. Make sure iPython is running fine (on it's own)

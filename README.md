@@ -62,5 +62,10 @@
 ### General
 * [Databricks-developer] https://databricks.com/spark/developer-resources
 
-
+### Windows
+set IPYTHON=1
+set IPYTHON_OPTS="notebook"
+../spark-1.4.1/bin/pyspark --packages com.databricks:spark-csv_2.11:1.0.3
+or
+../spark-1.4.1/bin/pyspark
 

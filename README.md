@@ -20,6 +20,14 @@
 7. Use the right spark path. I have spark installed in ~/Downloads/spark-1.4.1/
 8. Run the two initial notebooks 000-PreFlightCheck and the 001-TestSparkCSV
 9. Now you are ready for the workshop !
+10. Windows
+set IPYTHON=1
+
+set IPYTHON_OPTS="notebook"
+
+../spark-1.4.1/bin/pyspark --packages com.databricks:spark-csv_2.11:1.0.3
+or
+../spark-1.4.1/bin/pyspark
 
 >It could take sometime to get there - don't worry. _That is part of the learning._
 
@@ -62,10 +70,4 @@
 ### General
 * [Databricks-developer] https://databricks.com/spark/developer-resources
 
-### Windows
-set IPYTHON=1
-set IPYTHON_OPTS="notebook"
-../spark-1.4.1/bin/pyspark --packages com.databricks:spark-csv_2.11:1.0.3
-or
-../spark-1.4.1/bin/pyspark
 
